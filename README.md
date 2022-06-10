@@ -4,7 +4,7 @@
 
 とりあえず branch、push、pull、switch、merge、fetch あたりは理解した
 
-## 今後の学習計画
+### 今後の学習計画
 
 **・Git Flowについて学習する**
 
